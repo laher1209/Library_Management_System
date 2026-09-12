@@ -1,4 +1,4 @@
-# Library Management System 📚
+# Library Management System 
 
 A simple Python project that manages a library using Object-Oriented Programming (OOP).
 
